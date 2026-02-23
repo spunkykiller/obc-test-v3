@@ -6,7 +6,7 @@ import {
     ClockIcon,
     CubeTransparentIcon // Used for custom desks
 } from '@heroicons/react/24/outline';
-import { CupWaterIcon } from 'lucide-react'; // Simulating a coffee/pantry icon
+// Simulating a coffee/pantry icon (unused to avoid build errors)
 
 const AMENITIES = [
     { icon: ClockIcon, title: '24/7 Access', desc: 'Secure, round-the-clock access to your business cabin.' },
